@@ -33,5 +33,5 @@ I'm a passionate **Full-Stack Developer** from Cambodia 🇰🇭 with a strong i
 
 - [Portfolio](https://sethyrung.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/sethy-rung-146709299/)
-- Email: rungsethyhk@gmail.com
+- rungsethyhk@gmail.com
 
